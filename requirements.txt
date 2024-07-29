@@ -66,7 +66,7 @@ nltk==3.8.1
 notebook==7.2.1
 notebook_shim==0.2.4
 numba==0.60.0
-opencv-python==4.10.0.84
+opencv-python-headless
 optuna==3.6.1
 overrides==7.7.0
 pandocfilters==1.5.1
@@ -124,4 +124,3 @@ xgboost==2.1.0
 xlrd==2.0.1
 yellowbrick==1.5
 zstandard==0.22.0
-opencv-python-headless
